@@ -21,6 +21,8 @@
 //http://www.cnblogs.com/SheilaSun/p/7271883.html
 //https://www.cnblogs.com/SheilaSun/p/7294706.html
 
+https://github.com/sqzhuyi/node-eagle
+
 > createReadStream 与 readFile
 
 要增添对目录访问的支持，我们重新整理下响应的步骤：
